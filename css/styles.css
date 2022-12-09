@@ -18,6 +18,19 @@ h1 {
   font-weight: 900;
 }
 
+
+/* h2 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+} */
+
+
 /* Navigation Bar */
 
 .navbar {
@@ -80,4 +93,14 @@ h1 {
 
 .feature-box p {
   color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
 }
